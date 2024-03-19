@@ -5,6 +5,7 @@ body {
     font-family: 'Inter', sans-serif, tahoma;
     font-size: 18px;
     line-height: 1.5;
+    text-align: center;
   }
 
   p {
@@ -26,7 +27,7 @@ body {
     margin-bottom: 8px;
     color: rgb(197, 110, 215);
   }
-
+  
   #submit {
     background-color: #450a4b;
     margin-top: 3%;
