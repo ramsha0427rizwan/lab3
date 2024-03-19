@@ -14,7 +14,7 @@ body {
   }
 
   h1 {
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Orbitron', serif;
     font-weight: bold;
     font-size: 2.618em;
     padding: 10px;
@@ -27,7 +27,19 @@ body {
     color: #552;
   }
 
-  @media screen and (max-width: 480px) {
+  #submit {
+    background-color: #7a60c7;
+    margin-top: 3%;
+    color: white;
+    font-family: 'Orbitron', serif;
+    font-size: 22px;
+    text-align: center;
+    width: 100%;
+    height: 75px;
+    border: none;
+  }
+
+  @media screen and (max-width: 530px) {
     body {
       font-size: 14px;
     }
