@@ -24,11 +24,11 @@ body {
   label {
     display: block;
     margin-bottom: 8px;
-    color: #552;
+    color: rgb(197, 110, 215);
   }
 
   #submit {
-    background-color: #7a60c7;
+    background-color: #450a4b;
     margin-top: 3%;
     color: white;
     font-family: 'Orbitron', serif;
