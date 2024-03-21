@@ -40,6 +40,10 @@ body {
     border: none;
   }
 
+  #submit:hover {
+    background-color:rgb(199, 30, 208);
+  }
+
   @media screen and (max-width: 530px) {
     body {
       font-size: 14px;
